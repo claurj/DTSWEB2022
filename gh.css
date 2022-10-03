@@ -1,0 +1,211 @@
+body {
+    background: #772e25;
+}
+
+.header {
+    font-family: "Special Elite", cursive;
+    font-size: 15px;
+    color: #EDDDD4;
+    padding: 20px;
+    margin-left: 5%;
+}
+
+
+.icon-hammer:before {
+  content: "\e996";
+  width: 100px;
+  height: 100px;
+  color: #283D3B;
+}
+
+#contenedor {
+    width: 600px;
+    padding: 20px 0px;
+    margin: 0px;
+    background: #edddd4;
+    margin: 0 auto;
+    float: center;
+}
+
+.cont {
+    padding: 30px;
+}
+
+.jorge {
+    font-family: "Fjalla One", sans-serif;
+    font-size: 20px;
+}
+
+.titu {
+    font-family: "Fjalla One", sans-serif;
+    font-size: 50px;
+    padding-left: 100px;
+    margin-top: 0px;
+    color: #283D3B;
+}
+
+.sub {
+    font-family: "Fjalla One", sans-serif;
+    font-size: 30px;
+     color: #283D3B;
+}
+
+#img1 .img {
+    position: absolute;
+    width: 200px;
+    height: 300px;
+    overflow: hidden;
+    top: 155px;
+    right: 15px;
+    border-radius: 50%;
+    transform: skewY(2deg);
+}
+
+#img1 .img img {
+    width: 200px;
+    height: 300px;
+}
+
+.p1 {
+    font-family: "Fjalla One", sans-serif;
+    font-size: 15px;
+    font-display: auto;
+     color: #283D3B;
+}
+
+.sub2 {
+    font-family: "Fjalla One", sans-serif;
+    font-size: 30px;
+     color: #283D3B;
+}
+
+.p2 {
+    font-family: "Fjalla One", sans-serif;
+    font-size: 15px;
+     color: #283D3B;
+}
+
+.sub3 {
+    font-family: "Fjalla One", sans-serif;
+    font-size: 30px;
+     color: #283D3B;
+}
+
+.p3 {
+    font-family: "Fjalla One", sans-serif;
+    font-size: 15px;
+     color: #283D3B;
+}
+
+#aside .img2 {
+    position: relative;
+    width: 200px;
+    height: 300px;
+    overflow: hidden;
+    top: 5px;
+    right: 15px;
+}
+
+
+#aside .img2 object {
+    width: 200px;
+    height: 300px;
+}
+
+.sub4 {
+    font-family: "Fjalla One", sans-serif;
+    font-size: 30px;
+     color: #283D3B;
+}
+
+.p4 {
+    font-family: "Fjalla One", sans-serif;
+    font-size: 15px;
+     color: #283D3B;
+}
+
+.sub5 {
+    font-family: "Fjalla One", sans-serif;
+    font-size: 30px;
+     color: #283D3B;
+}
+
+.subsub {
+    font-family: "Fjalla One", sans-serif;
+    font-size: 25px;
+     color: #283D3B;
+}
+
+.p5 {
+    font-family: "Fjalla One", sans-serif;
+    font-size: 15px;
+     color: #283D3B;
+}
+
+#idea {
+    font-family: "Fjalla One", sans-serif;
+    font-size: 15px;
+     color: #283D3B;
+}
+
+#idea .idea1 {
+    font-family: "Fjalla One", sans-serif;
+    font-size: 20px;
+     color: #283D3B;
+}
+
+#idea .idea2 {
+    font-family: "Fjalla One", sans-serif;
+    font-size: 20px;
+     color: #283D3B;
+}
+
+#idea .idea3 {
+    font-family: "Fjalla One", sans-serif;
+    font-size: 20px;
+     color: #283D3B;
+}
+
+#footer {
+    background-color: #C44536;
+    width: 100%;
+    position: absolute;
+    margin: 0%;
+    padding: 0px;
+}
+
+#footer div {
+    width: 100%;
+    padding: 20px 0px;
+    background: #C44536;
+    margin: 0 auto;
+    float: center;
+}
+
+#footer .ref {
+    padding: 40px;
+}
+
+.ref {
+    font-family: "Fjalla One", sans-serif;
+    font-size: 15px;
+}
+
+.sub6 {
+    font-family: "Fjalla One", sans-serif;
+    font-size: 30px;
+    padding: 10px;
+    color: #EDDDD4;
+}
+
+.p6 {
+    font-family: "Fjalla One", sans-serif;
+    font-size: 15px;
+}
+
+.sub7 {
+    font-family: "Fjalla One", sans-serif;
+    font-size: 30px;
+    padding: 10px;
+    color: #EDDDD4;
+}
